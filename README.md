@@ -3,7 +3,7 @@ Reference to Stanford University’s assignment CS106AP: Programming Methodologi
 ## Projects Source Codes:
 * [01_complement_DNA](https://github.com/An022/self_learning-manipulating_string/blob/main/01_complement_DNA/complement_DNA.py)\
   This program uses string manipulation to tackle a real world problem - finding the complement strand of a DNA sequence.\
-  The program asks uses for a DNA sequence as a python string that is case-insensitive and output the complement of it.\
+  The program asks uses for a DNA sequence as a python string that is case-insensitive and output the complement of it.
 
   ```
   User can input a DNA strand, and this program can find the complement.
@@ -28,7 +28,7 @@ Reference to Stanford University’s assignment CS106AP: Programming Methodologi
 * [03_caesar_cryptography](https://github.com/An022/self_learning-manipulating_string/blob/main/03_caesar_cryptography/caesar.py)\
   The program demonstrates the idea of the caesar cipher.\
   Users will be asked to input a number to produce shifted alphabet as the cipher table.\
-  After that, any strings typed in will be encrypted.\
+  After that, any strings typed in will be encrypted.
   
   ```
   Use the concept of Caesar Cipher to cipher the secret message.
@@ -42,7 +42,7 @@ Reference to Stanford University’s assignment CS106AP: Programming Methodologi
   This program plays a hangman game.\
   Users see a dashed word, trying to correctly figure the un-dashed word out by inputting one character each round.\
   If the user input is correct, show the updated word on the console.\
-  Players have N_TURNS chances to try and win this game.\
+  Players have N_TURNS chances to try and win this game.
   
   ```
   The program will play a hangman game with user.
