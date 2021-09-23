@@ -1,5 +1,5 @@
 """
-File: complement.py
+File: complement_DNA.py
 Name: An Lee
 ----------------------------
 This program uses string manipulation to
